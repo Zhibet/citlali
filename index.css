@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color:rgb(253, 237, 216);
+}
+
+.btn{
+    margin-right: 8px;
+}
+
+
+.container-lg {
+   display: none;
+}
+
+img{
+    border-radius: 10px;
+}
+
+ 
